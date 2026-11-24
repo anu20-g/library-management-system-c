@@ -1,0 +1,1 @@
+# Library Management System - Team 1\n\nAdd books, search books, issue books and record returns.\n\n## Compilation and Run\n```bash\ngcc main.c -o app\n./app\n```\n
